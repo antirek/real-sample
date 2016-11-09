@@ -1,0 +1,22 @@
+{
+  "name": "real-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/real-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/real-sample/issues"
+  },
+  "homepage": "https://github.com/antirek/real-sample",
+  "dependencies": {
+    "math-float64-frexp": "^1.0.0"
+  }
+}
